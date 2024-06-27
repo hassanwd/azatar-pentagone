@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/azatar-pentagone/static/css/main.2207ec31.css",
+    "main.js": "/azatar-pentagone/static/js/main.83884502.js",
+    "index.html": "/azatar-pentagone/index.html",
+    "main.2207ec31.css.map": "/azatar-pentagone/static/css/main.2207ec31.css.map",
+    "main.83884502.js.map": "/azatar-pentagone/static/js/main.83884502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2207ec31.css",
+    "static/js/main.83884502.js"
+  ]
+}
